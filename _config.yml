@@ -20,9 +20,7 @@ logo: "/inclBridge.png"
 favicon_ico: "/favicon.ico"
 #Inclusion-Bridge
 
-#college-advantage-data-science
-
-#url: https://Inclusion-Bridge.github.io/YOUR-SITE-NAME
+url: https://Inclusion-Bridge.github.io/college-advantage-data-science
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.3.3
 color_scheme: light
