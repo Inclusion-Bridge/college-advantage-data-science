@@ -1,11 +1,9 @@
-<!--
 ---
-title: Week 15 Announcements
-week: 15
-date: 2022-11-28
+title: Week 1 Announcements
+week:
+date: 2023-01-16
 ---
 
-* **Project 3** has been released and is due on Friday, December 2nd. The checkpoint is optional.
+- **College Advantage** classes are starting!!!.
 
 {: .fs-5 }
--->

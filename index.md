@@ -24,12 +24,12 @@ Inclusion Bridge, College Advantage 2023
 {{ announcement }}
 {% endfor %}
 
-{% assign mods = site.modules | where: 'class', 'Berkeley' %}
+{% assign mods = site.modules | where: 'class', 'CollegeAdvantage' %}
 {% for module in mods %}
 {{ module }}
 {% endfor %}
 
-<!--DARKMODE UNDER CONSTRUCTION-->
+<
 <br />
 
 <button class="js-toggle-dark-mode dm-btn btn">Toggle Dark Mode</button>

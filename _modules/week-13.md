@@ -1,21 +1,20 @@
 ---
 title: Week 13
-class: Berkeley
+class: CollegeAdvantage
 ---
-Apr 10
-: **32**{: .label} Residuals
-  : <!--[Slides]#) &#8226; [Demos](#) &#8226; [Video](#)-->
-: *Reading:* [15.5](https://inferentialthinking.com/chapters/15/5/Visual_Diagnostics.html), [15.6](https://inferentialthinking.com/chapters/15/6/Numerical_Diagnostics.html)
-: **Lab**{: .label .label-lab} Lab 09: Regression (Due 4/14)
-  : <!--[Lab 09 Worksheet](#)-->
 
-Apr 12
-: **33**{: .label} Regression Inference
-  : <!--[Slides]#) &#8226; [Demos](#) &#8226; [Video](#)-->
-: *Reading:* [16](https://inferentialthinking.com/chapters/16/Inference_for_Regression.html)
+Activity 13.1
+: **34**{: .label} Classification
+: <!--[Slides]#) &#8226; [Demos](#) &#8226; [Video](#)-->
+: _Reading:_ [17](https://inferentialthinking.com/chapters/17/Classification.html), [17.1](https://inferentialthinking.com/chapters/17/1/Nearest_Neighbors.html), [17.2](https://inferentialthinking.com/chapters/17/2/Training_and_Testing.html), [17.3](https://inferentialthinking.com/chapters/17/3/Rows_of_Tables.html)
 
-Apr 14
-: **34**{: .label} Privacy
-  : <!--[Slides]#) &#8226; [Demos](#) &#8226; [Video](#)-->
-: **Homework**{: .label .label-homework} Homework 11 (Due 4/19)
-: **Project**{: .label .label-project} Project 3: Classifying Movies (Due 4/28)
+Activity 13.2
+: **35**{: .label} Classifiers
+: <!--[Slides]#) &#8226; [Demos](#) &#8226; [Video](#)-->
+: _Reading:_ [17.4](https://inferentialthinking.com/chapters/17/4/Implementing_the_Classifier.html)
+
+Activity 13.3
+: **36**{: .label} Updating Probabilities
+: <!--[Slides]#) &#8226; [Demos](#) &#8226; [Video](#)-->
+: _Reading:_ [13](https://inferentialthinking.com/chapters/13/Estimation.html), [18](https://inferentialthinking.com/chapters/18/Updating_Predictions.html)
+: **Homework**{: .label .label-homework} Homework 12

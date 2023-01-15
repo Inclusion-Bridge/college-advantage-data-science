@@ -18,7 +18,11 @@ description: Foundations of Data Science
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 logo: "/inclBridge.png"
 favicon_ico: "/favicon.ico"
+#Inclusion-Bridge
 
+#college-advantage-data-science
+
+#url: https://Inclusion-Bridge.github.io/YOUR-SITE-NAME
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.3.3
 color_scheme: light
