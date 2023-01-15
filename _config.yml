@@ -21,6 +21,7 @@ favicon_ico: "/favicon.ico"
 #Inclusion-Bridge
 
 url: https://Inclusion-Bridge.github.io/college-advantage-data-science
+
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.3.3
 color_scheme: light
@@ -30,12 +31,6 @@ permalink: pretty
 aux_links:
   About InclusionBridge: http://www.inclusionbridge.org/
   Textbook: https://inferentialthinking.com/chapters/intro.html
-
-# External navigation links
-# nav_external_links:
-#   - title: Textbook
-#     url: https://inferentialthinking.com/chapters/intro.html
-#     hide_icon: true
 
 footer_content:
 
