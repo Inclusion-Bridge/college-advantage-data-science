@@ -5,7 +5,7 @@ class: CollegeAdvantage
 
 Activity 4.1
 : **9**{: .label} Functions
-:[Embedded Demo Notebook](https://inclusionbridgedshub.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FInclusion-Bridge%2F2023-DS-College-Advanatge&branch=main&urlpath=tree%2F2023-DS-College-Advanatge%2Flec+notebooks%2Flec09.ipynb)
+: [Embedded Demo Notebook](https://inclusionbridgedshub.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FInclusion-Bridge%2F2023-DS-College-Advanatge&branch=main&urlpath=tree%2F2023-DS-College-Advanatge%2Flec+notebooks%2Flec09.ipynb)
 : _Reading:_ [8](https://inferentialthinking.com/chapters/08/Functions_and_Tables.html), [8.1](https://inferentialthinking.com/chapters/08/1/Applying_a_Function_to_a_Column.html)
 : **Lab**{: .label .label-lab} [Lab 04: Functions and Visualization](https://inclusionbridgedshub.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FInclusion-Bridge%2F2023-DS-College-Advanatge&branch=main&urlpath=tree%2F2023-DS-College-Advanatge%2Fmaterials%2Flab04%2Fstudent%2Flab04.ipynb)
 : <!--[Lab 04 Worksheet](#)-->
