@@ -15,17 +15,15 @@ description: >-
 > > A. Create InclusionBridge College Advantage folder in your google drive
 
 > > > - Click on the (+) and select new folder
-> > > - Name folder : firstname_lastname_inclusionbridge_cap
+> > > - Name folder : CA23 - name of school - your first initial + last name(Example: CA23-IB-gchristie)
 
-> > B. Share folder with the following email: taiwo@inclusionbridge.org
+> > B. Share folder with the Data Chief: [taiwo@inclusionbridge.org](taiwo@inclusionbridge.org) with edits permission
 
 > > C. Make sure you have run all cells in your notebook in order, so that all images/graphs appear in the output.
 
-> > D. Save notebook as a .ipynb file
+> > D. Download notebook as a .ipynb file retaining the file name <lab#/homework#>. E.g., HW01.ipynb
 
-> > E. Then upload notebook to your folder
-
-> > > - In your folder in your drive, click on (+) > file upload > select file from computer
+> > E. Then upload notebook to your folder. In your folder in your drive, click on (+) > file upload > select file from computer
 
 <br>
 
