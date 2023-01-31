@@ -1,5 +1,5 @@
 ---
-title: Week 1 Announcements
+title: Announcements
 week:
 date: 2023-01-16
 ---
