@@ -17,6 +17,6 @@ Activity 3.2
 
 Activity 3.3
 : **8**{: .label} Histograms
-: [Embedded Demo Notebook](https://inclusionbridgedshub.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FInclusion-Bridge%2F2023-DS-College-Advanatge&branch=main&urlpath=tree%2F2023-DS-College-Advanatge%2Flec+notebooks%2Flec08.ipynb))
+: [Embedded Demo Notebook](https://inclusionbridgedshub.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FInclusion-Bridge%2F2023-DS-College-Advanatge&branch=main&urlpath=tree%2F2023-DS-College-Advanatge%2Flec+notebooks%2Flec08.ipynb)
 : _Reading:_ [7.2](https://inferentialthinking.com/chapters/07/2/Visualizing_Numerical_Distributions.html), [7.3](https://inferentialthinking.com/chapters/07/3/Overlaid_Graphs.html)
 : **Homework**{: .label .label-homework} [Homework 03](https://inclusionbridgedshub.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FInclusion-Bridge%2F2023-DS-College-Advanatge&branch=main&urlpath=tree%2F2023-DS-College-Advanatge%2Fmaterials%2Fhw03%2Fstudent%2Fhw03.ipynb)
