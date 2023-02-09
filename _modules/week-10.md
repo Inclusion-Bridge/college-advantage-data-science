@@ -20,4 +20,3 @@ Activity 10.3
 : <!--[Slides]#) &#8226; [Demos](#) &#8226; [Video](#)-->
 : _Reading:_ [14.6](https://inferentialthinking.com/chapters/14/6/Choosing_a_Sample_Size.html)
 : **Homework**{: .label .label-homework} Homework 09 (Due 4/5)
-: **Project**{: .label .label-project} Project 2: Climate

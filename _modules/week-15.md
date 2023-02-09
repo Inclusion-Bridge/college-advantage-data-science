@@ -1,7 +1,7 @@
 ---
-title: Final Presentations
+title: Project Work
 class: CollegeAdvantage
 ---
 
-Presentation
-: **Presentation**{: .label .label-exam} Final Presentation
+Project Work
+: **Project**{: .label .label-project} Kick Off Project Work

@@ -19,4 +19,3 @@ Activity 12.3
 : **34**{: .label} Privacy
 : <!--[Slides]#) &#8226; [Demos](#) &#8226; [Video](#)-->
 : **Homework**{: .label .label-homework} Homework 11 (Due 4/19)
-: **Project**{: .label .label-project} Project 3: Classifying Movies
