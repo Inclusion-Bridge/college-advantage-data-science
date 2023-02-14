@@ -15,7 +15,7 @@ seo:
 Inclusion Bridge, College Advantage 2023
 {: .mb-2 .fs-6 .text-grey-dk-000 }
 
-[Lecture Zoom Link](http://www.tinyurl.com/pinggillian){: .btn .btn-blue}
+[Lecture Zoom Link](https://us06web.zoom.us/my/ttogun?pwd=bGsxeU1uN0F0ZHVTQ1NBTWVWNUNEdz09){: .btn .btn-blue}
 
 ## Let us start your Data Science Journey together
 
