@@ -19,4 +19,4 @@ Activity 10.3
 : **28**{: .label} Designing Experiments
 : <!--[Slides]#) &#8226; [Demos](#) &#8226; [Video](#)-->
 : _Reading:_ [14.6](https://inferentialthinking.com/chapters/14/6/Choosing_a_Sample_Size.html)
-: **Homework**{: .label .label-homework} Homework 09 (Due 4/5)
+: **Homework**{: .label .label-homework} Homework 09
