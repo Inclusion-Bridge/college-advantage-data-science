@@ -7,7 +7,7 @@ Activity 9.1
 : **23**{: .label} Confidence Intervals
 : [Embedded Demo Notebook](https://inclusionbridgedshub.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FInclusion-Bridge%2F2023-DS-College-Advanatge&branch=main&urlpath=tree%2F2023-DS-College-Advanatge%2Flec+notebooks%2Flec23.ipynb)
 : _Reading:_ [13](https://inferentialthinking.com/chapters/13/Estimation.html), [13.1](https://inferentialthinking.com/chapters/13/1/Percentiles.html), [13.2](https://inferentialthinking.com/chapters/13/2/Bootstrap.html)
-: **Lab**{: .label .label-lab} Lab 07: A/B Testing
+: **Lab**{: .label .label-lab} [Lab 07: A/B Testing](https://inclusionbridgedshub.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FInclusion-Bridge%2F2023-DS-College-Advanatge&branch=main&urlpath=tree%2F2023-DS-College-Advanatge%2Fmaterials%2Flab07%2Fstudent%2Flab07.ipynb)
 : <!--[Lab 07 Worksheet](#)-->
 
 Activity 9.2
