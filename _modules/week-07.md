@@ -19,4 +19,3 @@ Activity 7.3
 : **19**{: .label} A/B Testing
 : [Embedded Demo Notebook](https://inclusionbridgedshub.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FInclusion-Bridge%2F2023-DS-College-Advanatge&branch=main&urlpath=tree%2F2023-DS-College-Advanatge%2Flec+notebooks%2Flec19.ipynb)
 : _Reading:_ [11.4](https://inferentialthinking.com/chapters/11/4/Error_Probabilities.html), [12.1](https://inferentialthinking.com/chapters/12/1/AB_Testing.html)
-: **Homework**{: .label .label-homework} [Homework 07](https://inclusionbridgedshub.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FInclusion-Bridge%2F2023-DS-College-Advanatge&branch=main&urlpath=tree%2F2023-DS-College-Advanatge%2Fmaterials%2Fhw07%2Fstudent%2Fhw07.ipynb)
