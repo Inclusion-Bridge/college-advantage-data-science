@@ -6,13 +6,13 @@ nav_exclude: false
 permalink: index.html
 seo:
   type: Course
-  name: Data 8 Spring 2023
+  name: Data 8 Spring 2024
 ---
 
 # Data 8: Foundations of Data Science
 
 {: .mb-2 }
-Inclusion Bridge, College Advantage 2023
+Inclusion Bridge, College Advantage 2024
 {: .mb-2 .fs-6 .text-grey-dk-000 }
 
 [Lecture Zoom Link](https://us06web.zoom.us/my/ttogun?pwd=bGsxeU1uN0F0ZHVTQ1NBTWVWNUNEdz09){: .btn .btn-blue}
