@@ -4,6 +4,6 @@ week:
 date: 2023-02-01
 ---
 
-- **College Advantage** classes are starting!!!.
+- **Data Fundamentals starting Oct 4th!** .
 
 {: .fs-5 }

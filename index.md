@@ -12,7 +12,7 @@ seo:
 # Data 8: Foundations of Data Science
 
 {: .mb-2 }
-Inclusion Bridge, College Advantage 2024
+InclusionBridge, Bridge to Data Fundamentals 23-24
 {: .mb-2 .fs-6 .text-grey-dk-000 }
 
 [Lecture Zoom Link](https://us06web.zoom.us/my/ttogun?pwd=bGsxeU1uN0F0ZHVTQ1NBTWVWNUNEdz09){: .btn .btn-blue}
