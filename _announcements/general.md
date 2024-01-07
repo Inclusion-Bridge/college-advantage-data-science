@@ -1,9 +1,9 @@
 ---
 title: Announcements
 week:
-date: 2023-02-01
+date: 2024-01-01
 ---
 
-- **Data Fundamentals starting Oct 4th!** .
+- **Data Fundamentals classes have started!** .
 
 {: .fs-5 }
