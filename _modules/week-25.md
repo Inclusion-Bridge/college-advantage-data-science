@@ -3,9 +3,15 @@ title: Module 25
 class: CollegeAdvantage
 ---
 
-Lecture
-: **34**{: .label} Privacy
-: [Embedded Notebook](https://inclusionbridgedshub.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FInclusion-Bridge%2F2024-bridge-to-data-fundamentals&urlpath=tree%2F2024-bridge-to-data-fundamentals%2Flec+notebooks%2Flec34.ipynb)
-: _Reading:_ [13](https://inferentialthinking.com/chapters/13/Estimation.html), [18](https://inferentialthinking.com/chapters/18/Updating_Predictions.html)
+Lecture 1
+: **35**{: .label} Numpy Fundamentals
+: [Lecture Notebook](https://inclusionbridgedshub.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FInclusion-Bridge%2F2024-bridge-to-data-fundamentals&urlpath=tree%2F2024-bridge-to-data-fundamentals%2Flec+notebooks%2Flec35.ipynb)
+<!-- : **Lab**{: .label .label-lab} [Lab 11]() -->
 
-: **Lab**{: .label .label-lab} [Lab 11: Numpy Fundamentals](https://inclusionbridgedshub.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FInclusion-Bridge%2F2024-bridge-to-data-fundamentals&urlpath=tree%2F2024-bridge-to-data-fundamentals%2Fmaterials%2Flab11%2Fstudent%2Flab11.ipynb)
+
+Lecture 2
+: **36**{: .label} Introduction to Pandas
+: [Lecture Notebook]()
+: _Reading:_ [1.1](https://www.textbook.ds100.org/ch/06/pandas_subsetting.html), [1.2](https://www.textbook.ds100.org/ch/06/pandas_other_reps.html), [1.3](https://www.textbook.ds100.org/ch/06/pandas_aggregating.html), [1.4](https://learningds.org/ch/06/pandas_joining.html), [1.5](https://learningds.org/ch/06/pandas_transforming.html)
+: [Embedded Notebook](https://inclusionbridgedshub.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FInclusion-Bridge%2F2024-bridge-to-data-fundamentals&urlpath=tree%2F2024-bridge-to-data-fundamentals%2Flec+notebooks%2FEmbedded_Pandas.ipynb)
+: **Lab**{: .label .label-lab} [Lab 11](https://inclusionbridgedshub.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FInclusion-Bridge%2F2024-bridge-to-data-fundamentals&urlpath=tree%2F2024-bridge-to-data-fundamentals%2Fmaterials%2Flab11%2Fstudent%2Flab11.ipynb)
